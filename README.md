@@ -3,12 +3,14 @@
 ## Purpose
 A website that offers fitness training services.
 
-##Built with
+## Built with
 *HTML
 *CSS
 
-##Website
+## Website
 https://amysfiles.github.io/run-buddy/
 
-##Contribution
+## Contribution
 Made with ❤️ by Amy
+
+### ©️2019 Run Buddy, Inc
